@@ -62,8 +62,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left">
-  <b>Results-driven Senior Software Engineer with 7+ years of expertise in full-stack development, leading scalable solutions across fintech, healthtech, and enterprise SaaS. Proven track record in architecting microservices-based applications using React.js, Java Spring Boot, and cloud-native infrastructure (AWS, GCP).</b>
+  <b>I'm a full stack developer with a passion for building elegant web & non-web solutions. Currently a final year student at the University of Leicester, focused on crafting clean code and thoughtful design to solve real-world problems.</b>
 </p>
+
 
 - 👨‍💻 Software Engineer specializing in Node js and Express Js
 - 🎓 Currently a Student with an expected 1st
