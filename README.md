@@ -122,7 +122,8 @@
 </h2>
 
 <!-- 3D Animated Timeline with Glowing Effect -->
-<div align="center">
+
+<!-- <div align="center">
   <table>
     <tr>
       <td>
@@ -131,7 +132,7 @@
       <td>
         <h3>Role</h3>
         <h4>Location</h4>
-        <p><em>Tie and length</em></p>
+        <p><em>Time and length</em></p>
         <ul>
           <li>Bullet Point</li>
         </ul>
@@ -153,7 +154,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- 3D Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
