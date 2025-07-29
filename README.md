@@ -203,14 +203,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mody-18&custom_title=Sine%20Raja's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" width="100%">
 </div>
 
-<!-- Animated Snake Game -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mody-18/mody-18/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mody-18/mody-18/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mody-18/mody-18/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <!-- Projects Section with animated cards -->
 <h2 align="center">
