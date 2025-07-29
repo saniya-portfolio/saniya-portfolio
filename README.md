@@ -82,6 +82,7 @@
 <h3 align="center">Frontend Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-61DAFB?style=for-the-badge&logo=vue&logoColor=black" alt="Vue.js"/>
 </p>
 
 <h3 align="center">Backend Development</h3>
