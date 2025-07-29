@@ -5,8 +5,9 @@
 
 <!-- 3D Animated intro text with particles -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3A88F2&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Sine+Raja;Senior+Software+Engineer;7%2B+Years+of+Experience;React+%26+Java+Specialist;Microservices+Architecture+Expert" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3A88F2&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Modestas+Riabovas;Aspiring+Software+Engineer;Final+Year+UoL+Student;Node.js+%2B+Express.js+Developer" alt="Typing animation showing profile summary" />
 </p>
+
 
 <!-- 3D Spinning Badge -->
 <p align="center">
