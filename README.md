@@ -26,30 +26,26 @@
 
 <!-- 3D Social Media Buttons with Hover Effects -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/sine-raja-591156177/" target="_blank">
+  <a href="https://www.linkedin.com/in/modestas-riabovas-127b89229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=20" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mody-18" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&logoWidth=20" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/forever_and_always.raja?r=nametag" target="_blank">
+  <a href="https://www.instagram.com/modestasria/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&logoWidth=20" alt="Instagram" />
   </a>
   <a href="mailto:modestas.riabovas2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/rc_sine?t=rB-FCWuRqUve1Wp4FKv-6A&s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&logoWidth=20" alt="Twitter" />
-  </a>
 </div>
 
 <!-- 3D Contact Badge -->
 <p align="center">
-  <a href="tel:+">
-    <img src="https://img.shields.io/badge/%2B44%207767%20-Call%20Me-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
+  <a href="tel:+447825792501">
+    <img src="https://img.shields.io/badge/%2B44%207825%20792501-Call%20Me-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
-  <a href="https://goo.gl/maps/EdXBvtHVDSzSm6aD6">
-    <img src="https://img.shields.io/badge/Edinburgh%2C%20Scotland-Location-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+  <a href="https://goo.gl/maps/y5zVfWdnr8KJZVDB8">
+    <img src="https://img.shields.io/badge/Leicester%2C%20UK-Location-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
   </a>
 </p>
 
