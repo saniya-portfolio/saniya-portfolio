@@ -161,9 +161,9 @@
 
 <!-- 3D Education Section -->
 <h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo">
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo"> -->
   Education
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo">
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo"> -->
 </h2>
 
 
@@ -171,7 +171,7 @@
   <table>
     <tr>
       <td>
-       <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo">
+       <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo"> -->
       </td>
       <td>
         <h3>Computer Science BSc</h3>
@@ -181,9 +181,6 @@
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo"> 
-      </td>
     </tr>
   </table>
 </div>
