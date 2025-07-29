@@ -1,7 +1,8 @@
 <!-- 3D Animated Header with glowing effect -->
 <div align="center">
-  <img src="" width="100%" alt="Modestas Riabovas - Software Engineer">
+  <img src="https://github.com/mody-18.png" width="200" alt="Modestas Riabovas - Software Engineer">
 </div>
+
 
 <!-- 3D Animated intro text with particles -->
 <p align="center">
