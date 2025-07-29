@@ -11,8 +11,9 @@
 
 <!-- 3D Spinning Badge -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=0CE82B&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Results-driven+engineer+from+Edinburgh%2C+Scotland;Leading+scalable+solutions+across+fintech+%26+healthtech;Architecting+microservices-based+applications" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=0CE82B&center=true&multiline=true&repeat=false&random=false&width=800&height=120&lines=I'm+a+full+stack+developer+with+a+passion+for+building+elegant+web+%26+non-web+solutions.;Currently+a+third-year+student+at+the+University+of+Leicester;Focused+on+crafting+clean+code+and+thoughtful+design+to+solve+real-world+problems." alt="About Me" />
 </p>
+
 
 <!-- Profile Views Counter -->
 <!-- 3D Profile Stats with Glowing Effect -->
