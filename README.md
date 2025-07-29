@@ -214,16 +214,10 @@
 
 <!-- Projects Section with animated cards -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects"> -->
   Featured Projects
-  <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects"> -->
 </h2>
-
-<div align="center">
-  <a href="https://github.com/mody-18/{name}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mody-18&repo={name}&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
 <!-- Animated Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -235,7 +229,6 @@
   <h3>Thanks for visiting my profile!</h3>
   <p>Feel free to reach out and connect with me 😊</p>
   
-  ![Visitor Count](https://profile-counter.glitch.me/mody-18/count.svg)
 </div>
 
 <!-- Add the setup instructions for animated snake contribution graph -->
