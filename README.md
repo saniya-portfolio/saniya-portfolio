@@ -102,8 +102,9 @@
 
 <h3 align="center">Databases & Caching</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
+
 
 <!-- 3D Tech Expertise Showcase -->
 <p align="center">
