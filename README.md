@@ -170,7 +170,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo">
       </td>
       <td>
         <h3>Computer Science BSc</h3>
@@ -181,11 +181,12 @@
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-5871-4a13-bfe4-a04c5cbd67fe.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo">
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <div align="center">
