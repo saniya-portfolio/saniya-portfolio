@@ -3,18 +3,15 @@
   <img src="https://github.com/mody-18.png" width="200" alt="Modestas Riabovas - Software Engineer">
 </div>
 
-
 <!-- 3D Animated intro text with particles -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3A88F2&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Modestas+Riabovas;Aspiring+Software+Engineer;Final+Year+UoL+Student;Node.js+%2B+Express.js+Developer" alt="Typing animation showing profile summary" />
 </p>
 
-
 <!-- 3D Spinning Badge -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=0CE82B&center=true&multiline=true&repeat=false&random=false&width=800&height=150&lines=Software+Engineer+with+a+passion+for+elegant+solutions;Building+web+%26+non-web+apps+that+solve+real+problems;Final+year+university+student;Crafting+clean+code+%26+thoughtful+design" alt="About Me" />
 </p>
-
 
 <!-- Profile Views Counter -->
 <!-- 3D Profile Stats with Glowing Effect -->
@@ -62,7 +59,6 @@
   <b>I'm a Software Engineer with a passion for building elegant web & non-web solutions. Currently a final year student at the University of Leicester, focused on crafting clean code and thoughtful design to solve real-world problems.</b>
 </p>
 
-
 - 👨‍💻 Software Engineer specializing in Node js and Express
 - 🎓 Final Year Student graduating with a expected 1st
 - 🌍 Based in Leicester, England
@@ -92,7 +88,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-
 <h3 align="center">Cloud & DevOps</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -103,7 +98,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-
 <!-- 3D Tech Expertise Showcase -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/borderseparator.gif" width="100%">
@@ -111,7 +105,6 @@
 
 <!-- Animated Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 
 <!-- 3D Work Experience Section with animated timeline -->
 <h2 align="center">
@@ -159,13 +152,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 
-
-
 <!-- Projects Section with animated cards -->
 <h2 align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects"> -->
+  <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects">
   Featured Projects
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects"> -->
+  <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects">
 </h2>
 
 <div align="center">
