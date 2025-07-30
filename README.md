@@ -113,46 +113,47 @@
 
 
 <!-- 3D Work Experience Section with animated timeline -->
-<!-- <h2 align="center">
+<h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="Experience">
   Professional Experience
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="Experience">
-</h2> -->
+</h2>
 
-<!-- 3D Animated Timeline with Glowing Effect -->
-
-<!-- <div align="center">
+<!-- Project Timeline Showcase -->
+<div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="60">
+        <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="60" alt="Project Icon">
       </td>
       <td>
-        <h3>Role</h3>
-        <h4>Location</h4>
-        <p><em>Time and length</em></p>
+        <h3>Local Massage Business Website</h3>
+        <h4><a href="https://github.com/RZMassage/rzmassage.github.io" target="_blank">rzmassage.github.io</a></h4>
+        <p><em>Built for a real-world massage therapy business to boost local reach and service visibility</em></p>
         <ul>
-          <li>Bullet Point</li>
+          <li>Designed a responsive website with service listings, booking info, and testimonials</li>
+          <li>Optimized for SEO and mobile-first viewing to attract local clients</li>
+          <li>Static site hosted on GitHub Pages for fast, free, and reliable delivery</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" alt="Project Icon">
       </td>
-    </tr>
-    <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-c4a4-4e70-8992-ca95098ee15a.gif" width="60">
+        <h3>Teacher Portfolio Website</h3>
+        <h4><a href="https://github.com/saniya-portfolio/saniya-portfolio.github.io" target="_blank">saniya-portfolio.github.io</a></h4>
+        <p><em>Personal portfolio site for an educator to showcase teaching background, credentials, and student success</em></p>
+        <ul>
+          <li>Built with HTML/CSS and a bit of JS for interactive sections</li>
+          <li>Clean layout presenting resume, testimonials, and achievements</li>
+          <li>Deployed via GitHub Pages for simple maintenance and public access</li>
+        </ul>
       </td>
     </tr>
   </table>
-</div> -->
+</div>
 
 <!-- 3D Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
