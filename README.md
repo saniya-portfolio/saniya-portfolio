@@ -64,7 +64,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left">
-  <b>I'm a full stack developer with a passion for building elegant web & non web solutions. Currently a final year student at the University of Leicester, focused on crafting clean code and thoughtful design to solve real-world problems.</b>
+  <b>I'm a Software Developer with a passion for building elegant web & non-web solutions. Currently a final year student at the University of Leicester, focused on crafting clean code and thoughtful design to solve real-world problems.</b>
 </p>
 
 
