@@ -161,33 +161,6 @@
 <!-- 3D Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
-<!-- 3D Education Section -->
-<h2 align="center">
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo"> -->
-  Education
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo"> -->
-</h2>
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-       <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo"> -->
-      </td>
-      <td>
-        <h3>Computer Science BSc</h3>
-        <h4>University of Leicester, UK</h4>
-        <p><em>September 2023 - September 2026</em></p>
-        <p>Predicted 1st</p>
-      </td>
-    </tr>
-    <tr>
-    </tr>
-  </table>
-</div>
-
-
 
 <div align="center">
   <a href="https://github.com/mody-18">
@@ -215,6 +188,33 @@
 
 <!-- Animated Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- 3D Education Section -->
+<h2 align="center">
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo"> -->
+  Education
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo"> -->
+</h2>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+       <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo"> -->
+      </td>
+      <td>
+        <h3>Computer Science BSc</h3>
+        <h4>University of Leicester, UK</h4>
+        <p><em>September 2023 - September 2026</em></p>
+        <p>Predicted 1st</p>
+      </td>
+    </tr>
+    <tr>
+    </tr>
+  </table>
+</div>
+
 
 <!-- Footer with animated elements -->
 <div align="center">
