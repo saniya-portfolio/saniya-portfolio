@@ -211,7 +211,7 @@
   <table>
     <tr>
       <td>
-       <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo"> -->
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="60" alt="University of Leicester Logo">
       </td>
       <td>
         <h3>Computer Science BSc</h3>
@@ -220,10 +220,9 @@
         <p>Predicted 1st</p>
       </td>
     </tr>
-    <tr>
-    </tr>
   </table>
 </div>
+
 
 
 <!-- Footer with animated elements -->
