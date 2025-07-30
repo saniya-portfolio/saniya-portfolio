@@ -211,11 +211,7 @@
   <table>
     <tr>
       <td>
-        <!-- University of Leicester SVG Logo -->
-        <svg width="60" height="auto" viewBox="0 0 255 68" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMid meet" role="img" aria-label="University of Leicester Logo">
-          <!-- paste your full SVG <path> content here -->
-          <!-- To keep this snippet short, paste the full <path> data where this comment is -->
-        </svg>
+        <img src="https://raw.githubusercontent.com/mody-18/mody-18.github.io/main/images/UniOfLeicester.jpg" width="60" alt="University of Leicester Logo">
       </td>
       <td>
         <h3>Computer Science BSc</h3>
@@ -226,6 +222,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
