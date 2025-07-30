@@ -168,6 +168,29 @@
 </h2>
 
 <div align="center">
+  <!-- Personal Portfolio Website -->
+  <a href="https://github.com/mody-18/mody-18.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mody-18&repo=mody-18.github.io&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- First Ever Python Program -->
+  <a href="https://github.com/mody-18/Import-Turtle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mody-18&repo=Import-Turtle&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- Java Spring Boot E-commerce -->
+  <a href="https://github.com/mody-18/ecommerce-com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mody-18&repo=ecommerce-com&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- Node.js Express.js Cuban Cigars Project -->
+  <a href="https://github.com/mody-18/cubanCigars-com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mody-18&repo=cubanCigars-com&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+
+<div align="center">
   <a href="https://github.com/mody-18">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mody-18&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mody-18&layout=compact&theme=tokyonight&hide_border=true" />
