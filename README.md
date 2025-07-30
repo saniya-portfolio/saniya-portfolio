@@ -162,6 +162,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 
+
+
+<!-- Projects Section with animated cards -->
+<h2 align="center">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects"> -->
+  Featured Projects
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects"> -->
+</h2>
+
 <div align="center">
   <a href="https://github.com/mody-18">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mody-18&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
@@ -178,13 +187,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mody-18&custom_title=Sine%20Raja's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" width="100%">
 </div>
 
-
-<!-- Projects Section with animated cards -->
-<h2 align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects"> -->
-  Featured Projects
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects"> -->
-</h2>
 
 <!-- Animated Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
