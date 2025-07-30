@@ -129,7 +129,6 @@
       </td>
       <td>
         <h3>Local Massage Business Website</h3>
-        <h4><a href="https://github.com/RZMassage/rzmassage.github.io" target="_blank">rzmassage.github.io</a></h4>
         <p><em>Built for a real-world massage therapy business to boost local reach and service visibility</em></p>
         <ul>
           <li>Designed a responsive website with service listings, booking info, and testimonials</li>
