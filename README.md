@@ -117,11 +117,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- 3D Work Experience Section with animated timeline -->
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="Experience">
   Professional Experience
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="Experience">
-</h2>
+</h2> -->
 
 <!-- 3D Animated Timeline with Glowing Effect -->
 
