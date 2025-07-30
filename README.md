@@ -154,10 +154,11 @@
 
 <!-- Projects Section with animated cards -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects">
+  <img src="https://via.placeholder.com/30x30?text=🔧" width="30" alt="Hammer and Wrench">
   Featured Projects
-  <img src="https://user-images.githubusercontent.com/74038190/216125640-2b717632-d30c-477a-9fbb-702ec88735c9.png" width="30" alt="Projects">
+  <img src="https://via.placeholder.com/30x30?text=🔧" width="30" alt="Hammer and Wrench">
 </h2>
+
 
 <div align="center">
   <!-- Personal Portfolio Website -->
@@ -237,39 +238,3 @@
   <p>Feel free to reach out and connect with me 😊</p>
   
 </div>
-
-<!-- Add the setup instructions for animated snake contribution graph -->
-<!--
-### Setup Instructions (For the Snake Animation):
-1. Create a new GitHub Actions workflow file:
-   ```
-   mkdir -p .github/workflows
-   touch .github/workflows/snake.yml
-   ```
-
-2. Add the following content to the snake.yml file:
-   ```yaml
-   name: Generate Snake Animation
-
-   on:
-     schedule:
-       - cron: "0 */12 * * *" # Runs every 12 hours
-     workflow_dispatch:
-
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v2
-         - uses: Platane/snk@master
-           with:
-             github_user_name: mody-18
-             svg_out_path: dist/github-contribution-grid-snake.svg
-         - uses: crazy-max/ghaction-github-pages@v2.1.3
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   ```
--->
