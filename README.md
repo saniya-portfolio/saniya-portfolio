@@ -154,9 +154,7 @@
 
 <!-- Projects Section with animated cards -->
 <h2 align="center">
-  <img src="https://via.placeholder.com/30x30?text=🔧" width="30" alt="Hammer and Wrench">
-  Featured Projects
-  <img src="https://via.placeholder.com/30x30?text=🔧" width="30" alt="Hammer and Wrench">
+  🛠️Featured Projects🛠️
 </h2>
 
 
@@ -205,9 +203,7 @@
 
 <!-- 3D Education Section -->
 <h2 align="center">
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo"> -->
-  Education
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/University_of_Leicester_arms.svg/1200px-University_of_Leicester_arms.svg.png" width="30" alt="University of Leicester Logo"> -->
+  🎓Education🎓
 </h2>
 
 
