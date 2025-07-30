@@ -12,8 +12,9 @@
 
 <!-- 3D Spinning Badge -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=0CE82B&center=true&multiline=true&repeat=false&random=false&width=800&height=150&lines=Full+stack+developer+with+a+passion+for+elegant+solutions;Building+web+%26+non-web+apps+that+solve+real+problems;Third-year+University+of+Leicester+student;Crafting+clean+code+%26+thoughtful+design" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=0CE82B&center=true&multiline=true&repeat=false&random=false&width=800&height=150&lines=Software+Engineer+with+a+passion+for+elegant+solutions;Building+web+%26+non-web+apps+that+solve+real+problems;Final+year+university+student;Crafting+clean+code+%26+thoughtful+design" alt="About Me" />
 </p>
+
 
 
 
