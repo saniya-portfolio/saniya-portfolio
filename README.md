@@ -59,14 +59,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left">
-  <b>I'm a Software Developer with a passion for building elegant web & non-web solutions. Currently a final year student at the University of Leicester, focused on crafting clean code and thoughtful design to solve real-world problems.</b>
+  <b>I'm a Software Engineer with a passion for building elegant web & non-web solutions. Currently a final year student at the University of Leicester, focused on crafting clean code and thoughtful design to solve real-world problems.</b>
 </p>
 
 
 - 👨‍💻 Software Engineer specializing in Node js and Express
-- 🎓 Fina Year Student with an expected 1st
+- 🎓 Final Year Student graduating with a expected 1st
 - 🌍 Based in Leicester, England
 - 📧 Email: modestas.riabovas2@gmail.com
+- 💼 Portfolio Website: https://mody-18.github.io/
 
 <!-- 3D Tech Stack Section with animated rotating icons -->
 <h2 align="center">
