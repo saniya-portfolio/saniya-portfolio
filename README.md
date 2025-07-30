@@ -137,7 +137,7 @@
         </ul>
       </td>
     </tr>
-    <tr>
+   <!-- <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" alt="Project Icon">
       </td>
@@ -151,9 +151,9 @@
           <li>Deployed via GitHub Pages for simple maintenance and public access</li>
         </ul>
       </td>
-    </tr>
+    </tr> -->
   </table>
-</div>
+</div> 
 
 <!-- 3D Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
