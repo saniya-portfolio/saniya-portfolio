@@ -52,7 +52,7 @@
 </p>
 
 <!-- 3D Wave Separator -->
-<img src="https://raw.githubusercontent.com/thecodrr/thecodrr/output/github-contribution-grid-snake-dark.svg" width="100%">
+
 
 <!-- About Me Section with 3D animated emoji -->
 <h2 align="center">
