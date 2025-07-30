@@ -16,8 +16,6 @@
 </p>
 
 
-
-
 <!-- Profile Views Counter -->
 <!-- 3D Profile Stats with Glowing Effect -->
 <p align="center">
@@ -50,9 +48,6 @@
     <img src="https://img.shields.io/badge/Leicester%2C%20UK-Location-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
   </a>
 </p>
-
-<!-- 3D Wave Separator -->
-
 
 <!-- About Me Section with 3D animated emoji -->
 <h2 align="center">
@@ -115,6 +110,7 @@
 
 <!-- Animated Wave Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <!-- 3D Work Experience Section with animated timeline -->
 <!-- <h2 align="center">
@@ -184,7 +180,7 @@
 
 <!-- Animated Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mody-18&custom_title=Sine%20Raja's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mody-18&custom_title=Modestas%20Riabovas's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" width="100%">
 </div>
 
 
