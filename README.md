@@ -68,8 +68,8 @@
 </p>
 
 
-- 👨‍💻 Software Engineer specializing in Node js and Express Js
-- 🎓 Currently a Student with an expected 1st
+- 👨‍💻 Software Engineer specializing in Node js and Express
+- 🎓 Fina Year Student with an expected 1st
 - 🌍 Based in Leicester, England
 - 📧 Email: modestas.riabovas2@gmail.com
 
